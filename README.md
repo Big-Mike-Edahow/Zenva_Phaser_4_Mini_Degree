@@ -1,2 +1,2 @@
-# Zenva HTML, CSS and JavaScript
-My versions of the source code from my Zenva HTML, CSS and JavaScript Courses.
+# Zenva Phaser 4 Mini Degree
+My versions of the source code from the Zenva Phaser 4 Mini Degree.
